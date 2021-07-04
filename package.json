@@ -1,0 +1,29 @@
+{
+  "name": "http_methods",
+  "version": "1.0.0",
+  "description": "Proyecto de clase basado en Node, implementación de metodos http GET, POST & DELETE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAlejandroB/http_methods.git"
+  },
+  "keywords": [
+    "Test",
+    "Example",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Diego Ballesteros, Fabian Rodriguez, Camilo Sanguino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAlejandroB/http_methods/issues"
+  },
+  "homepage": "https://github.com/DAlejandroB/http_methods#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
